@@ -4,8 +4,8 @@ Atuo como mestrando na UFPE, além de estudar na Faculdade SENAC-PE no curso de 
 
 ## 📊 GitHub Stats
 
-![Gabriel Santos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=danicaresfarias&show_icons=true&theme=dark&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danicaresfarias&layout=compact&theme=dark)
+![Gabriel Santos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabresantts&show_icons=true&theme=dark&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabresantts&layout=compact&theme=dark)
 
 ## 🧰 Ferramentas e Tecnologias
 
