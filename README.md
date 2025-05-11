@@ -8,10 +8,7 @@ Atuo como mestrando na UFPE, além de estudar na Faculdade SENAC-PE no curso de 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabresantts&layout=compact&theme=dark)
 
 ## 🧰 Ferramentas e Tecnologias
-
-# Ferramentas e Tecnologias
-
-- **S** | - **T** | - **J**  
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
