@@ -9,9 +9,42 @@ Olá! Eu sou **Gabriel Santos** 👋
 
 ---
 
-## 🧑‍💻 Sobre mim
+### 📚 Formação e Conhecimento
 
-Atualmente sou graduando do **3º período** no curso de **Tecnólogo em Análise e Desenvolvimento de Sistemas** na *Faculdade Senac em Pernambuco (SENAC)*. Também me graduei recentemente no **Bacharelado em Ciências Sociais** pela *Universidade Federal de Pernambuco (UFPE)*. Minha experiência inclui **pesquisa, coleta e bancos de dados**, com sólidas habilidades em **análise de dados quantitativos** (utilizando ferramentas como **Excel** e **SPSS**) e **qualitativos**. No contexto de tecnologia, participei ativamente na elaboração de projetos completos de **Front-End, Back-End e Banco de Dados**, complementados por mentorias assertivas. Além disso, realizei **monitorias** e **trilhas acadêmicas**.
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** (3º Período)
+    * *Faculdade Senac em Pernambuco (SENAC)*
+* **Bacharelado em Ciências Sociais** (Concluído Recentemente)
+    * *Universidade Federal de Pernambuco (UFPE)*
+
+---
+
+### 💻 Habilidades Técnicas e Experiência
+
+* **Ciclo de Desenvolvimento de Software:** Participei ativamente na elaboração de projetos de **Front-End**, **Back-End** e **Banco de Dados**, com mentorias assertivas.
+* **Análise de Dados:** Experiência com **pesquisa, coleta e bancos de dados**.
+    * Análise de dados **quantitativos** (Excel, SPSS) e **qualitativos**.
+* **Acadêmico:** Realizei atividades de **trilhas acadêmicas** no contexto de ADS.
+
+---
+
+### 💼 Experiência Profissional
+
+#### **Pesquisador | Estágio de Pesquisa**
+**Universidade Federal de Pernambuco (UFPE)**
+
+* **Projeto:** Monitoramento e Levantamento de Dados das Candidaturas LGBTQIA+ e aliad@s nas eleições gerais de 2022.
+
+* **Responsabilidades e Contribuições:**
+    * **Coleta e Sistematização de Dados:** Realização de coleta semanal, organização e sistematização rigorosa das informações.
+    * **Análise de Dados:** Criação e manutenção de **bancos de dados** (utilizando **Excel** e **SPSS**) e análise aprofundada dos dados coletados.
+    * **Produção Científica:** Elaboração de um **artigo científico** com potencial de submissão para uma revista acadêmica com revisão por pares.
+
+---
+
+#### **Assistente Administrativo (Jovem Aprendiz)**
+**Transportadora Globo**
+
+* Atuação na área administrativa, desenvolvendo habilidades de organização, rotinas de escritório e suporte operacional.
 
 ## 📊 GitHub Stats
 
