@@ -1,6 +1,13 @@
-# Sou Gabriel Santos, cientista social e graduando em tecnólogo em análise e desenvolvimento de sistemas.
 
-Atuo como estudante na Faculdade SENAC-PE no curso de ADS.
+Olá! Eu sou **Gabriel Santos** 👋
+
+* Graduado em Ciências Sociais **(Universidade Federal de Pernambuco)**
+* Estudante de Análise e Desenvolvimento de Sistemas **(Faculdade SENAC)**
+* Com experiência em Residência Tecnológica **(Porto Digital)**
+
+📍 Recife, PE
+
+---
 
 ## 📊 GitHub Stats
 
