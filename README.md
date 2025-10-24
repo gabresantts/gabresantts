@@ -9,6 +9,10 @@ Olá! Eu sou **Gabriel Santos** 👋
 
 ---
 
+## 🧑‍💻 Sobre mim
+
+Atualmente sou graduando do **3º período** no curso de **Tecnólogo em Análise e Desenvolvimento de Sistemas** na *Faculdade Senac em Pernambuco (SENAC)*. Também me graduei recentemente no **Bacharelado em Ciências Sociais** pela *Universidade Federal de Pernambuco (UFPE)*. Minha experiência inclui **pesquisa, coleta e bancos de dados**, com sólidas habilidades em **análise de dados quantitativos** (utilizando ferramentas como **Excel** e **SPSS**) e **qualitativos**. No contexto de tecnologia, participei ativamente na elaboração de projetos completos de **Front-End, Back-End e Banco de Dados**, complementados por mentorias assertivas. Além disso, realizei **monitorias** e **trilhas acadêmicas**.
+
 ## 📊 GitHub Stats
 
 ![Gabriel Santos GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabresantts&show_icons=true&theme=dark&hide=issues)
