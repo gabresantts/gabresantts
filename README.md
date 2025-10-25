@@ -1,9 +1,9 @@
 
 Olá! Eu sou **Gabriel Santos** 👋
 
-* Graduado em Ciências Sociais **(Universidade Federal de Pernambuco)**
-* Estudante de Análise e Desenvolvimento de Sistemas **(Faculdade SENAC)**
-* Com experiência em Residência Tecnológica **(Porto Digital)**
+* Graduado em Ciências Sociais **(Universidade Federal de Pernambuco)**;
+* Estudante de Análise e Desenvolvimento de Sistemas **(Faculdade SENAC)**;
+* Com o objetivo de atuar com Análise, Coleta e Modelagem de Dados na Área de TI.
 
 📍 Recife, PE
 
