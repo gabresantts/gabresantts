@@ -5,7 +5,7 @@ Olá! Eu sou **Gabriel Santos** 👋
 * Estudante de Análise e Desenvolvimento de Sistemas **(Faculdade SENAC)**;
 * Com o objetivo de atuar com Análise, Coleta e Modelagem de Dados na Área de TI.
 
-📍 Recife, PE
+📍 Recife, Pernambuco
 
 ---
 
